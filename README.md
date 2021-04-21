@@ -6,6 +6,10 @@ USB bus convert chip CH341A (+ USB RJ-45 50 meters extension adapter)
 
 Wow! Just a 50 meters-wireline modem !!!!!!
 
+First,
+
+Install libusb api library : $sudo apt-get install libusb-1.0-0-dev
+
 How to use:
 
 $./ch341prog -a  : D4-pin pull-down(low) 
