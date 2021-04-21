@@ -8,6 +8,6 @@ Wow! Just a 50 meters-wireline modem !!!!!!
 
 How to use:
 
-./ch341prog -a  : D4-pin pull-down(low) 
+$./ch341prog -a  : D4-pin pull-down(low) 
 
-./ch341prog -b  : D4-pin pull-up(high)
+$./ch341prog -b  : D4-pin pull-up(high)
