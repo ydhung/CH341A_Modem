@@ -2,7 +2,7 @@
 
 USB bus convert chip CH341A (+ USB RJ-45 50 meters extension adapter)
 
-... ... ... It also supplies common MODEM communication signal on order to expand UART (or GPIO) for computer or upgrade common synchronous interface device (SPI) to USB bus directly. ... ... ... 
+CH341A... ... ... It also supplies common MODEM communication signal on order to expand UART (or GPIO) for computer or upgrade common synchronous interface device (SPI) to USB bus directly. ... ... ... 
 
 Wow! Just a 50 meters-wireline modem !!!!!!
 
