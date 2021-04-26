@@ -1,6 +1,6 @@
 # CH341A_Modem
 
-USB bus convert chip CH341A (+ USB RJ-45 50 meters extension adapter)
+USB bus convert chip CH341A (+ USB RJ-45 50 meters extension adapter) :
 
 CH341A... ... ... It also supplies common MODEM communication signal on order to expand UART (or GPIO) for computer or upgrade common synchronous interface device (SPI) to USB bus (+ Extension Adapter) directly. ... ... ... 
 
