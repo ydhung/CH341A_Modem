@@ -16,10 +16,8 @@ $./ch341prog -a  : D4-pin pull-down(low)
 
 $./ch341prog -b  : D4-pin pull-up(high)
 
-
-Notes.
 ```
-WCH
-
+Notes.
+WCH:
 http://www.wch-ic.com/products/category/5.html
 ```
